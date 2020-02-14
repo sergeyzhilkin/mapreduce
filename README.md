@@ -5,4 +5,5 @@ then it sums all values for all files
 and sends final value to the output/to_hdfs file
 
 to generate test files in the input dir run genfiles.py 
-
+to execute run:
+ls ./input/ | python3 mapper.py 
